@@ -1,0 +1,8 @@
+car_plate_fa/
+car_plate_fa_numbers/
+car_plate_weights/
+carPlate/
+datasets/
+runs/
+.ipynb_checkpoints/
+plates_numbers.json
